@@ -1,5 +1,7 @@
 ### Custom ###
 public/dist/
+.env.test
+.env.development
 
 ###
 .DS_Store
